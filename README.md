@@ -1,21 +1,34 @@
 Hi 👋 My name is Ivan
 =====================
 
-Python/C++ dev.
+Python dev.
 ---------------
 
-Student at BSUIR (IEF faculty) balancing rigorous C++ curriculum with my passion for Python development. I'm learning C++ (BSUIR curriculum: OOP, algorithms, low-level programming), Python (FastAPI for backend development, automation, web scraping,ML projects), and PostgreSQL (database design, query optimization, integration with Python).
+Student at BSUIR (IEF faculty) focused on backend web development. I build and test Python web applications using FastAPI, interact with MySQL and PostgreSQL via SQLAlchemy, and am considering exploring machine learning — though I haven’t started yet.
 
 * 🌍  I'm based in I'm based in Minsk, Belarus
 * ✉️  You can contact me at [super.vanyadr@gmail.com](mailto:super.vanyadr@gmail.com)
 * 🧠  I'm learning Python, PostgreSQL, MySQL, SQLite
-* 🤝  I'm open to collaborating on I'm open to collaborating on: Machine Learning projects (data pipelines, model training, or deployment) Python-based web apps(FastAPI + Pydantic + sqlalchemy) And other interesting projects at the intersection of technology and innovation
+* 🤝  I'm open to collaborating on I'm open to collaborating on: Python-based web apps(FastAPI + Pydantic + sqlalchemy), Machine Learning projects (data pipelines, model training, or deployment) And other interesting projects at the intersection of technology and innovation
 
 ### Skills
 
-
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+</a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" />
+</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</a>
 </p>
 
 
