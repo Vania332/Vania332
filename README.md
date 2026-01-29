@@ -8,8 +8,8 @@ Student at BSUIR (IEF faculty) balancing rigorous C++ curriculum with my passion
 
 * 🌍  I'm based in I'm based in Minsk, Belarus
 * ✉️  You can contact me at [super.vanyadr@gmail.com](mailto:super.vanyadr@gmail.com)
-* 🧠  I'm learning C++, Python, PostgreSQL
-* 🤝  I'm open to collaborating on I'm open to collaborating on: Machine Learning projects (data pipelines, model training, or deployment) Python-based web apps with ML integrations (FastAPI + scikit-learn) And other interesting projects at the intersection of technology and innovation
+* 🧠  I'm learning Python, PostgreSQL, MySQL, SQLite
+* 🤝  I'm open to collaborating on I'm open to collaborating on: Machine Learning projects (data pipelines, model training, or deployment) Python-based web apps(FastAPI + Pydantic + sqlalchemy) And other interesting projects at the intersection of technology and innovation
 
 ### Skills
 
